@@ -8,3 +8,5 @@ The model was replicated 100 times for two landscapes: an artificial landscape a
 2 Response variables were assessed: 
 - the mean effective R (Re)
 - The mean number of effective contact events (i.e., the number of times a successful transmisson event occurred between a susceptible and infected fox) 
+
+* Now translating model into R using NetLogoR: https://github.com/PredictiveEcology/NetLogoR 
